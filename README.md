@@ -14,6 +14,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-Anthropic-blueviolet?style=flat)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -27,6 +28,7 @@ Proyectos con ⭐ son mis favoritos, ¡no te los pierdas!
 
 | Proyecto | Descripción | Stack | Demo |
 |---|---|---|---|
+| ⭐ [Google Beta Browser](https://github.com/FranMichelJr/google-beta-browser) | Navegador retro estilo Windows 98 con experiencia Google Beta funcional (búsqueda, tabs y navegación) | Electron · JavaScript · HTML · CSS | — |
 | ⭐ [SQL Assistant](https://github.com/FranMichelJr/sql-assistant) | LLM → SQL con auth JWT, 3 roles, WebSockets y exportación PDF/CSV | TypeScript · Claude API | [🔗 Live](https://sql-assistant-ai.netlify.app) |
 | ⭐ [AICA — Harvard Hackathon](https://github.com/FranMichelJr/aica) | Agente IA que transcribe consultas médicas en tiempo real y genera resumen clínico con receta PDF | Python · LLMs · Mobile | — |
 | [Argentina Dashboard](https://github.com/FranMichelJr/argentina-dashboard) | Pipeline macroeconómico en tiempo real: IPC, tipo de cambio oficial vs blue, salario real | Python · Streamlit · INDEC API | [🔗 Live](https://dash-economico-ar.streamlit.app/) |
