@@ -29,7 +29,7 @@ Proyectos con ⭐ son mis favoritos, ¡no te los pierdas!
 | Proyecto | Descripción | Stack | Demo |
 |---|---|---|---|
 | ⭐ [Google Beta Browser](https://github.com/FranMichelJr/google-beta-browser) | Navegador retro estilo Windows 98 con experiencia Google Beta funcional (búsqueda, tabs y navegación) | Electron · JavaScript · HTML · CSS | — |
-| ⭐ [SQL Assistant](https://github.com/FranMichelJr/sql-assistant) | LLM → SQL con auth JWT, 3 roles, WebSockets y exportación PDF/CSV | TypeScript · Claude API | [🔗 Live](https://sql-assistant-ai.netlify.app) |
+| ⭐ [ByMes](https://github.com/FranMichelJr/bymes) | Agente de BI autónomo (Claude + tool-use): detecta anomalías y redacta reportes solo, JWT con 2 roles, WebSockets en tiempo real | TypeScript · Python/Flask · Claude API | [🔗 Live](bymes.netlify.app) |
 | ⭐ [AICA — Harvard Hackathon](https://github.com/FranMichelJr/aica) | Agente IA que transcribe consultas médicas en tiempo real y genera resumen clínico con receta PDF | Python · LLMs · Mobile | — |
 | [Argentina Dashboard](https://github.com/FranMichelJr/argentina-dashboard) | Pipeline macroeconómico en tiempo real: IPC, tipo de cambio oficial vs blue, salario real | Python · Streamlit · INDEC API | [🔗 Live](https://dash-economico-ar.streamlit.app/) |
 | Computer Vision YPF | Clasificador CNN para inspección de ductos (5 clases) con dashboard de avance y sistema de alertas | Python · CNN · Computer Vision | — |
