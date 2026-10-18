@@ -29,9 +29,7 @@ Proyectos con ⭐ son mis favoritos, ¡no te los pierdas!
 | Proyecto | Descripción | Stack | Demo |
 |---|---|---|---|
 | ⭐ [Google Beta Browser](https://github.com/FranMichelJr/google-beta-browser) | Navegador retro estilo Windows 98 con experiencia Google Beta funcional (búsqueda, tabs y navegación) | Electron · JavaScript · HTML · CSS | — |
-| ⭐ [ByMes](https://github.com/FranMichelJr/bymes) | Agente de BI autónomo (Claude + tool-use): detecta anomalías y redacta reportes solo, JWT con 2 roles, WebSockets en tiempo real | TypeScript · Python/Flask · Claude API | [🔗 Live](bymes.netlify.app) |
 | ⭐ [AICA — Harvard Hackathon](https://github.com/FranMichelJr/aica) | Agente IA que transcribe consultas médicas en tiempo real y genera resumen clínico con receta PDF | Python · LLMs · Mobile | — |
-| [Argentina Dashboard](https://github.com/FranMichelJr/argentina-dashboard) | Pipeline macroeconómico en tiempo real: IPC, tipo de cambio oficial vs blue, salario real | Python · Streamlit · INDEC API | [🔗 Live](https://dash-economico-ar.streamlit.app/) |
 | Computer Vision YPF | Clasificador CNN para inspección de ductos (5 clases) con dashboard de avance y sistema de alertas | Python · CNN · Computer Vision | — |
 
 ---
@@ -41,4 +39,3 @@ Proyectos con ⭐ son mis favoritos, ¡no te los pierdas!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-franciscomichelsohn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/franciscomichelsohn)
 [![Email](https://img.shields.io/badge/Email-franmicheljr@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:franmicheljr@gmail.com)
 [![SQL Assistant](https://img.shields.io/badge/SQL_Assistant-Live-brightgreen?style=flat)](https://sql-assistant-ai.netlify.app)
-[![Dashboard](https://img.shields.io/badge/Argentina_Dashboard-Live-brightgreen?style=flat)](https://dash-economico-ar.streamlit.app/)
