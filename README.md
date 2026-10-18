@@ -30,7 +30,6 @@ Proyectos con ⭐ son mis favoritos, ¡no te los pierdas!
 |---|---|---|---|
 | ⭐ [Google Beta Browser](https://github.com/FranMichelJr/google-beta-browser) | Navegador retro estilo Windows 98 con experiencia Google Beta funcional (búsqueda, tabs y navegación) | Electron · JavaScript · HTML · CSS | — |
 | ⭐ [AICA — Harvard Hackathon](https://github.com/FranMichelJr/aica) | Agente IA que transcribe consultas médicas en tiempo real y genera resumen clínico con receta PDF | Python · LLMs · Mobile | — |
-| Computer Vision YPF | Clasificador CNN para inspección de ductos (5 clases) con dashboard de avance y sistema de alertas | Python · CNN · Computer Vision | — |
 
 ---
 
