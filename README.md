@@ -35,4 +35,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-franciscomichelsohn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/franciscomichelsohn)
 [![Email](https://img.shields.io/badge/Email-franmicheljr@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:franmicheljr@gmail.com)
-[![SQL Assistant](https://img.shields.io/badge/SQL_Assistant-Live-brightgreen?style=flat)](https://sql-assistant-ai.netlify.app)
