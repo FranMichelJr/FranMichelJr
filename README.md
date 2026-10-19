@@ -24,12 +24,10 @@
 
 ## 🚀 Proyectos
 
-Proyectos con ⭐ son mis favoritos, ¡no te los pierdas!
-
 | Proyecto | Descripción | Stack | Demo |
 |---|---|---|---|
-| ⭐ [Google Beta Browser](https://github.com/FranMichelJr/google-beta-browser) | Navegador retro estilo Windows 98 con experiencia Google Beta funcional (búsqueda, tabs y navegación) | Electron · JavaScript · HTML · CSS | — |
-| ⭐ [AICA — Harvard Hackathon](https://github.com/FranMichelJr/AICA) | Agente IA que transcribe consultas médicas en tiempo real y genera resumen clínico con receta PDF | Python · LLMs · Mobile | — |
+| [Google Beta Browser](https://github.com/FranMichelJr/google-beta-browser) | Navegador retro estilo Windows 98 con experiencia Google Beta funcional (búsqueda, tabs y navegación) | Electron · JavaScript · HTML · CSS | — |
+| [AICA — Harvard Hackathon](https://github.com/FranMichelJr/AICA) | Agente IA que transcribe consultas médicas en tiempo real y genera resumen clínico con receta PDF | Python · LLMs · Mobile | — |
 
 ---
 
